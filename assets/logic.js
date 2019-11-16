@@ -15,7 +15,7 @@ function topicInfo() {
         console.log(q);
         console.log(res.data);
         var results = res.data;
-          for (var i = 0; i < results.length; i++) {
+          for (var i = 0; i < 10; i++) {
             var animalDiv = $("<div>");
             var p = $("<p>").text("Rating: " + results[i].rating);
             var animalImage = $("<img>");
