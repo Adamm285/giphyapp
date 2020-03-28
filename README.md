@@ -76,8 +76,8 @@ No need to install anything just click this link [here](https://adamm285.github.
 
 ## Screen Shots
 
-![screenshot1]("./Capture.PNG)
-![screenshot2](./Capture1.PNG)
+![screenshot1]("./Capture.PNG")
+![screenshot2](Capture1.PNG)
 
 [Back To The Top](#giphy-app)
 
