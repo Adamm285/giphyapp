@@ -10,6 +10,7 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
+- [Screen Shots](#screen-shots)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -27,7 +28,7 @@ Built to make API calls to Giphy and return Gifs of your choosing!
 - BootStrap
 - JavaScript
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#giphy-app)
 
 ---
 
@@ -69,7 +70,16 @@ No need to install anything just click this link [here](https://adamm285.github.
 };
 ```
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#giphy-app)
+
+---
+
+## Screen Shots
+
+![screenshot1]("./Capture.PNG)
+![screenshot2](./Capture1.PNG)
+
+[Back To The Top](#giphy-app)
 
 ---
 
@@ -78,7 +88,7 @@ No need to install anything just click this link [here](https://adamm285.github.
 Giphy API [here](https://developers.giphy.com/)
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#giphy-app)
 
 ---
 
@@ -106,7 +116,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#giphy-app)
 
 ---
 
@@ -116,4 +126,4 @@ SOFTWARE.
 - Website - [Adam M Murphy](https://adamm285.github.io/AdamMurphy'sPortfolio/)
 - Resume - [Adam Murphy Software Developer](https://docs.google.com/document/d/1GLxDLwlrQkmdugH2Xl9MsOv5Rz6rmzqqSrbzfTZ-R3E/edit?usp=sharing)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#giphy-app)
