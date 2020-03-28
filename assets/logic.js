@@ -1,6 +1,6 @@
 // 
 // 
-var topics = ["cat", "bird", ];
+var topics = ["cat", "bird", "dog"];
 // 
 function topicInfo() {
     event.preventDefault();
