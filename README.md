@@ -10,7 +10,6 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [Screen Shots](#screen-shots)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -69,15 +68,6 @@ No need to install anything just click this link [here](https://adamm285.github.
     });
 };
 ```
-
-[Back To The Top](#giphy-app)
-
----
-
-## Screen Shots
-
-![screenshot1]("./Capture.PNG")
-![screenshot2](Capture1.PNG)
 
 [Back To The Top](#giphy-app)
 
